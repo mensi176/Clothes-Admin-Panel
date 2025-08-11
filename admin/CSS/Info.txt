@@ -1,0 +1,15 @@
+Color Combinations:
+
+crimson #f0e6da
+Logo Color #0b635b
+
+Element	Color	Hex Code Notes
+Header	Dark Teal	#075B57	Matches logo;
+ gives a strong brand feel
+Sidebar	Light Beige	#F9EFE4	Soft, clean, minimal distraction
+Body Background	White or Very Light Beige	#FFFDF9 or #F9EFE4	Clean, breathable space
+Primary Text	Dark Teal	#075B57	Consistent and readable
+Secondary Text	Muted Gray or Tan	#7A7A7A or #A38D78	For descriptions, labels, etc.
+Buttons (Primary)	Dark Teal with White Text	#075B57 bg, #FFFFFF text	Strong CTA presence
+Buttons (Hover)	Lighter Teal	#117F7C	Subtle interaction feedback
+Links	Teal or Muted Gold	#075B57 or #C7A27C	Keep consistent with brand
